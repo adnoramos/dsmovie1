@@ -134,6 +134,11 @@ a, a:hover {
     max-width: 480px;
 }
 
+.dsmovie-form-card img {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
 .dsmovie-form-description {
     background-color: var(--white);
     padding: 20px;
